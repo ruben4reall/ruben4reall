@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruben</h1>
 <h3 align="center">A selfmade entrepreneur and developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruben4reall&label=Profile%20views&color=0e75b6&style=flat" alt="ruben4reall" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruben4reall" alt="ruben4reall" /></a> </p>
-
 ### Hi there, my name is Bastien Vienet 👋
 
 Welcome to my github profile ! Here is everything that I did and currently do code-wise ! :desktop_computer:
