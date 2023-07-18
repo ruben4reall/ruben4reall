@@ -8,7 +8,7 @@ Welcome to my github profile ! You will find some open-source projects that I ha
 ---
 
 ### :man_technologist: About Me :
-I'm a selfmade entrepreneur and developer from Switzerland [:switzerland:]
+I'm a selfmade entrepreneur and apprentice developer from Switzerland [:switzerland:]
 
 - My favorite word is "Kaizen", translated from Japanese, it is the philosophy of constant improvement. Every day is an opportunity to improve, even if it's only by 1%.
 It's not about being invisible. It's about being unstoppable 
