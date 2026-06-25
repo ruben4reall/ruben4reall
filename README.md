@@ -19,17 +19,6 @@ I build complete products end to end — design system, code, and deploy. Founde
 
 ---
 
-### Selected work
-
-| Project | What it is | Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **[HubTools](https://hubtools.ch)** | Modular productivity & finance suite — finance coaching, encrypted vault, AI advisor | Next.js · Supabase | Live · [source](https://github.com/ruben4reall/hubtools) |
-| **[Café Concerto](https://cafe-concerto.vercel.app)** | QR menu & back-office, live i18n (PT/EN/FR), per-table QR codes | Next.js · Supabase | Live |
-| **Watcholic** | Swiss watch e-commerce with 0% financing | Next.js · Supabase | In development |
-| **Comparateur Voyage** | Travel price meta-search (flights + hotels) with an AI concierge | Next.js · multi-API | In development |
-
----
-
 ### Stack
 
 `TypeScript` · `React` · `Next.js` · `Node.js` · `Tailwind CSS` · `Supabase` · `PostgreSQL` · `Vercel` · `discord.js` · `Lua (Roblox)`
