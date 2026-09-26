@@ -12,7 +12,24 @@
 
 <br>
 
-## Currently building
+## Latest releases
+
+<a href="https://getpli.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruben4reall/pli/main/docs/brand/readme-header-dark.png">
+    <img src="https://raw.githubusercontent.com/ruben4reall/pli/main/docs/brand/readme-header.png" alt="Pli" width="100%">
+  </picture>
+</a>
+
+### [Pli](https://github.com/ruben4reall/pli): the iPhone Duo fold, on your MacBook
+
+A native macOS menu bar app driven by the real angle of your MacBook's lid. Close it and your desktop turns into a pane of frosted glass swinging on the hinge while the picture stays still; open it and everything unfolds, down to the lock screen after sleep. A Metal renderer, a 3D MacBook that follows your lid in the settings, seven looks and your own, about 16 MB of memory at rest, no telemetry.
+
+<a href="https://github.com/ruben4reall/pli/releases/latest/download/Pli.dmg"><img src="https://img.shields.io/badge/Download_for_Mac-0B6FB0?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Mac"></a>&nbsp;<a href="https://getpli.vercel.app"><img src="https://img.shields.io/badge/Website-1f1f1f?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>&nbsp;<a href="https://github.com/ruben4reall/pli"><img src="https://img.shields.io/badge/Star_on_GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="Star on GitHub"></a>
+
+<sub>Swift 6 · SwiftUI · Metal · MIT · signed and notarized · <code>brew install --cask ruben4reall/tap/pli</code> · macOS 26 and later</sub>
+
+<br><br>
 
 <a href="https://brainmerge.vercel.app"><img src="https://raw.githubusercontent.com/ruben4reall/brainmerge/main/docs/brand/readme-header.png" alt="Brainmerge" width="100%"></a>
 
@@ -41,6 +58,7 @@ A native macOS app for people with more than one Claude account. Each account ge
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[Pli](https://github.com/ruben4reall/pli)** | The iPhone Duo fold on a MacBook, driven by the real lid angle, rendered in Metal | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![Metal](https://img.shields.io/badge/Metal-1f1f1f?style=flat-square&logo=apple&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-1f1f1f?style=flat-square&logo=apple&logoColor=white) |
 | **[Brainmerge](https://github.com/ruben4reall/brainmerge)** | Several Claude accounts side by side on a Mac, one shared memory of your projects | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-1f1f1f?style=flat-square&logo=apple&logoColor=white) |
 
 More projects will open up here as they launch.
