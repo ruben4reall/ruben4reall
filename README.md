@@ -69,34 +69,24 @@ More projects will open up here as they launch.
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <a href="https://hubtools.ch"><img src="https://www.rubencatalao.ch/projects-hubtools.jpg" alt="HubTools" width="100%"></a>
-      <br><b><a href="https://hubtools.ch">HubTools</a></b>
-      <br><sub>SaaS · The all-in-one hub for SMBs</sub>
-    </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://48heures.ch"><img src="https://www.rubencatalao.ch/projects-48heures.jpg" alt="48heures.ch" width="100%"></a>
       <br><b><a href="https://48heures.ch">48heures.ch</a></b>
       <br><sub>Agency · SaaS · A custom website in 48 hours</sub>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://www.cafeconcertocasegas.com"><img src="https://www.rubencatalao.ch/projects-cafe-concerto.jpg" alt="Café Concerto" width="100%"></a>
       <br><b><a href="https://www.cafeconcertocasegas.com">Café Concerto</a></b>
       <br><sub>Web app · A village café's digital menu</sub>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://www.juvet-stores.ch"><img src="https://www.rubencatalao.ch/projects-juvet.jpg" alt="Juvet & Fils Stores" width="100%"></a>
       <br><b><a href="https://www.juvet-stores.ch">Juvet &amp; Fils Stores</a></b>
       <br><sub>Showcase website · Blinds craftsman, western Switzerland</sub>
     </td>
-    <td width="33%" valign="top">
-      <a href="https://seb-mecanique-mauve.vercel.app"><img src="https://www.rubencatalao.ch/projects-seb-mecanique.jpg" alt="Seb Mécanique" width="100%"></a>
-      <br><b><a href="https://seb-mecanique-mauve.vercel.app">Seb Mécanique</a></b>
-      <br><sub>Showcase website · Independent mechanic, Aigle area</sub>
-    </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://glambytaisa.ch"><img src="https://www.rubencatalao.ch/projects-glambytaisa.jpg" alt="GlamByTaisa" width="100%"></a>
       <br><b><a href="https://glambytaisa.ch">GlamByTaisa</a></b>
       <br><sub>Art direction · Brand identity and social content</sub>
