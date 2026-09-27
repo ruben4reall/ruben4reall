@@ -14,6 +14,20 @@
 
 ## Latest releases
 
+<a href="https://getsouffleur.vercel.app">
+  <img src="https://raw.githubusercontent.com/ruben4reall/souffleur/main/docs/images/readme-header.png" alt="Souffleur" width="100%">
+</a>
+
+### [Souffleur](https://github.com/ruben4reall/souffleur): your lines, right under the camera
+
+A teleprompter that lives in the MacBook notch and follows your voice. The words you say dim, the next one lights up and the line you are on stays under the lens, ringed with a violet light that breathes with your voice. Speech recognised on the Mac, never sent anywhere; floating and mirrored full screen modes; global shortcuts, presentation clickers and foot pedals, a phone remote over your network; scripts from Word, PDF or PowerPoint notes; a summary after every take.
+
+<a href="https://github.com/ruben4reall/souffleur/releases/latest/download/Souffleur.dmg"><img src="https://img.shields.io/badge/Download_for_Mac-8F6BFF?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Mac"></a>&nbsp;<a href="https://getsouffleur.vercel.app"><img src="https://img.shields.io/badge/Website-1f1f1f?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>&nbsp;<a href="https://github.com/ruben4reall/souffleur"><img src="https://img.shields.io/badge/Star_on_GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="Star on GitHub"></a>
+
+<sub>Swift 6 · SwiftUI · Core Animation · on-device speech · MIT · signed and notarized · macOS 14 and later</sub>
+
+<br><br>
+
 <a href="https://getislet.vercel.app">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruben4reall/islet/main/docs/images/readme-header-dark.png">
@@ -75,6 +89,7 @@ A native macOS app for people with more than one Claude account. Each account ge
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[Souffleur](https://github.com/ruben4reall/souffleur)** | A teleprompter in the MacBook notch that follows your voice, word by word, on the Mac | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-1f1f1f?style=flat-square&logo=swift&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-1f1f1f?style=flat-square&logo=apple&logoColor=white) |
 | **[Islet](https://github.com/ruben4reall/islet)** | A Dynamic Island for the MacBook notch: music, AirPods, files, timers and your AI agents, with Allow and Deny | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-1f1f1f?style=flat-square&logo=swift&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-1f1f1f?style=flat-square&logo=apple&logoColor=white) |
 | **[Pli](https://github.com/ruben4reall/pli)** | The iPhone Duo fold on a MacBook, driven by the real lid angle, rendered in Metal | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![Metal](https://img.shields.io/badge/Metal-1f1f1f?style=flat-square&logo=apple&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-1f1f1f?style=flat-square&logo=apple&logoColor=white) |
 | **[Brainmerge](https://github.com/ruben4reall/brainmerge)** | Several Claude accounts side by side on a Mac, one shared memory of your projects | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-1f1f1f?style=flat-square&logo=apple&logoColor=white) |
