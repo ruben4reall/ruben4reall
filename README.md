@@ -14,6 +14,23 @@
 
 ## Latest releases
 
+<a href="https://getislet.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruben4reall/islet/main/docs/images/readme-header-dark.png">
+    <img src="https://raw.githubusercontent.com/ruben4reall/islet/main/docs/images/readme-header.png" alt="Islet" width="100%">
+  </picture>
+</a>
+
+### [Islet](https://github.com/ruben4reall/islet): the notch, made useful
+
+A native Dynamic Island for the MacBook notch. The song playing with its cover, your AirPods recognised by model, volume and brightness, a shelf for files with AirDrop, clipboard history, agenda and timers, and the AI agents you run: Claude Code, Codex, Gemini CLI and Cursor show in the notch, and a permission request opens it with Allow and Deny. Programmable from any script, never over the menu bar, about 15 MB of memory at rest, no telemetry.
+
+<a href="https://github.com/ruben4reall/islet/releases/latest/download/Islet.dmg"><img src="https://img.shields.io/badge/Download_for_Mac-E2472D?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Mac"></a>&nbsp;<a href="https://getislet.vercel.app"><img src="https://img.shields.io/badge/Website-1f1f1f?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>&nbsp;<a href="https://github.com/ruben4reall/islet"><img src="https://img.shields.io/badge/Star_on_GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="Star on GitHub"></a>
+
+<sub>Swift 6 · SwiftUI · Core Animation · MIT · signed and notarized · macOS 14 and later</sub>
+
+<br><br>
+
 <a href="https://getpli.vercel.app">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruben4reall/pli/main/docs/brand/readme-header-dark.png">
@@ -58,6 +75,7 @@ A native macOS app for people with more than one Claude account. Each account ge
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[Islet](https://github.com/ruben4reall/islet)** | A Dynamic Island for the MacBook notch: music, AirPods, files, timers and your AI agents, with Allow and Deny | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-1f1f1f?style=flat-square&logo=swift&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-1f1f1f?style=flat-square&logo=apple&logoColor=white) |
 | **[Pli](https://github.com/ruben4reall/pli)** | The iPhone Duo fold on a MacBook, driven by the real lid angle, rendered in Metal | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![Metal](https://img.shields.io/badge/Metal-1f1f1f?style=flat-square&logo=apple&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-1f1f1f?style=flat-square&logo=apple&logoColor=white) |
 | **[Brainmerge](https://github.com/ruben4reall/brainmerge)** | Several Claude accounts side by side on a Mac, one shared memory of your projects | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-1f1f1f?style=flat-square&logo=apple&logoColor=white) |
 
