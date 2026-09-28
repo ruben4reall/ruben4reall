@@ -14,20 +14,20 @@
 
 ## Latest releases
 
-<a href="https://gettansu.vercel.app">
+<a href="https://gettiroir.vercel.app">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruben4reall/tansu/main/docs/brand/readme-header-dark.png">
-    <img src="https://raw.githubusercontent.com/ruben4reall/tansu/main/docs/brand/readme-header.png" alt="Tansu" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruben4reall/tiroir/main/docs/brand/readme-header-dark.png">
+    <img src="https://raw.githubusercontent.com/ruben4reall/tiroir/main/docs/brand/readme-header.png" alt="Tiroir" width="100%">
   </picture>
 </a>
 
-### [Tansu](https://github.com/ruben4reall/tansu): your menu bar, in drawers
+### [Tiroir](https://github.com/ruben4reall/tiroir): your menu bar, in drawers
 
-A free menu bar organizer for macOS 26 and 27. Tansu sorts the icons crowding your menu bar into drawers, one icon each: a click opens a small panel right under it, and a click on an app opens its own menu. Smart Sort proposes the drawers in one click, and the notch stops swallowing icons. Search, Focus, profiles and triggers, a tinted menu bar in three shapes, ten languages; one permission, about 16 MB of memory at rest, no telemetry, and every icon comes back the moment you quit.
+A free menu bar organizer for macOS 26 and 27. Tiroir sorts the icons crowding your menu bar into drawers, one icon each: a click opens a small panel right under it, and a click on an app opens its own menu. Smart Sort proposes the drawers in one click, and the notch stops swallowing icons. Search, Focus, profiles and triggers, a tinted menu bar in three shapes, ten languages; one permission, about 16 MB of memory at rest, no telemetry, and every icon comes back the moment you quit.
 
-<a href="https://github.com/ruben4reall/tansu/releases/latest/download/Tansu.dmg"><img src="https://img.shields.io/badge/Download_for_Mac-8F5600?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Mac"></a>&nbsp;<a href="https://gettansu.vercel.app"><img src="https://img.shields.io/badge/Website-1f1f1f?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>&nbsp;<a href="https://github.com/ruben4reall/tansu"><img src="https://img.shields.io/badge/Star_on_GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="Star on GitHub"></a>
+<a href="https://github.com/ruben4reall/tiroir/releases/latest/download/Tiroir.dmg"><img src="https://img.shields.io/badge/Download_for_Mac-8F5600?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Mac"></a>&nbsp;<a href="https://gettiroir.vercel.app"><img src="https://img.shields.io/badge/Website-1f1f1f?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>&nbsp;<a href="https://github.com/ruben4reall/tiroir"><img src="https://img.shields.io/badge/Star_on_GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="Star on GitHub"></a>
 
-<sub>Swift 6 · SwiftUI · AppKit · MIT · signed and notarized · <code>brew install --cask ruben4reall/tap/tansu</code> · macOS 26 and later</sub>
+<sub>Swift 6 · SwiftUI · AppKit · MIT · signed and notarized · <code>brew install --cask ruben4reall/tap/tiroir</code> · macOS 26 and later</sub>
 
 <br><br>
 
@@ -106,7 +106,7 @@ A native macOS app for people with more than one Claude account. Each account ge
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Tansu](https://github.com/ruben4reall/tansu)** | The menu bar in drawers: icons sorted by purpose in one click, each drawer one icon, clear of the notch | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-1f1f1f?style=flat-square&logo=swift&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-1f1f1f?style=flat-square&logo=apple&logoColor=white) |
+| **[Tiroir](https://github.com/ruben4reall/tiroir)** | The menu bar in drawers: icons sorted by purpose in one click, each drawer one icon, clear of the notch | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-1f1f1f?style=flat-square&logo=swift&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-1f1f1f?style=flat-square&logo=apple&logoColor=white) |
 | **[Souffleur](https://github.com/ruben4reall/souffleur)** | A teleprompter that grows out of the MacBook notch, stops when you stop talking and stays out of your recordings | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-1f1f1f?style=flat-square&logo=swift&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-1f1f1f?style=flat-square&logo=apple&logoColor=white) |
 | **[Islet](https://github.com/ruben4reall/islet)** | A Dynamic Island for the MacBook notch: music, AirPods, files, timers and your AI agents, with Allow and Deny | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-1f1f1f?style=flat-square&logo=swift&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-1f1f1f?style=flat-square&logo=apple&logoColor=white) |
 | **[Pli](https://github.com/ruben4reall/pli)** | The iPhone Duo fold on a MacBook, driven by the real lid angle, rendered in Metal | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![Metal](https://img.shields.io/badge/Metal-1f1f1f?style=flat-square&logo=apple&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-1f1f1f?style=flat-square&logo=apple&logoColor=white) |
