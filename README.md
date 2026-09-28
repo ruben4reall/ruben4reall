@@ -54,7 +54,7 @@ A free teleprompter that grows out of the MacBook notch, lit from below in viole
 
 ### [Islet](https://github.com/ruben4reall/islet): the notch, made useful
 
-A native Dynamic Island for the MacBook notch. The song playing with its cover, your AirPods recognised by model, volume and brightness, a shelf for files with AirDrop, clipboard history, agenda and timers, and the AI agents you run: Claude Code, Codex, Gemini CLI and Cursor show in the notch, and a permission request opens it with Allow and Deny. Programmable from any script, never over the menu bar, about 15 MB of memory at rest, no telemetry.
+A native Dynamic Island for the MacBook notch. The song playing with its cover, your AirPods recognised by model, volume and brightness, a shelf for files with AirDrop, clipboard history, agenda and timers, and the AI agents you run: Claude Code, Codex, Gemini CLI, Cursor and GitHub Copilot in VS Code show in the notch, and a permission request from Claude Code or Codex opens it with Allow and Deny. Programmable from any script, never over the menu bar, about 15 MB of memory at rest, no telemetry.
 
 <a href="https://github.com/ruben4reall/islet/releases/latest/download/Islet.dmg"><img src="https://img.shields.io/badge/Download_for_Mac-E2472D?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Mac"></a>&nbsp;<a href="https://getislet.vercel.app"><img src="https://img.shields.io/badge/Website-1f1f1f?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>&nbsp;<a href="https://github.com/ruben4reall/islet"><img src="https://img.shields.io/badge/Star_on_GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="Star on GitHub"></a>
 
