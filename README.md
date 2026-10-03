@@ -14,6 +14,23 @@
 
 ## Latest releases
 
+<a href="https://getcol.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruben4reall/col/main/docs/images/readme-header-dark.png">
+    <img src="https://raw.githubusercontent.com/ruben4reall/col/main/docs/images/readme-header.png" alt="Col" width="100%">
+  </picture>
+</a>
+
+### [Col](https://github.com/ruben4reall/col): the notch, made useful
+
+A native Dynamic Island for the MacBook notch, called Islet until 2.0. The song playing with its synced lyrics, your AirPods recognised by model, volume and brightness, a shelf for files with AirDrop, clipboard, agenda and timers, pages you compose from widgets. A teleprompter that grows out of the notch and rolls at the pace of your voice, out of your recordings. And your AI: Claude Code, Codex, Gemini CLI, Cursor and GitHub Copilot show in the notch with Allow and Deny, and you can ask your own models, on your Mac or your network. Programmable from any script, about 15 MB of memory at rest, no telemetry.
+
+<a href="https://github.com/ruben4reall/col/releases/latest/download/Col.dmg"><img src="https://img.shields.io/badge/Download_for_Mac-0A84FF?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Mac"></a>&nbsp;<a href="https://getcol.vercel.app"><img src="https://img.shields.io/badge/Website-1f1f1f?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>&nbsp;<a href="https://github.com/ruben4reall/col"><img src="https://img.shields.io/badge/Star_on_GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="Star on GitHub"></a>
+
+<sub>Swift 6 · SwiftUI · Core Animation · on-device speech · MIT · signed and notarized · <code>brew install --cask ruben4reall/tap/col</code> · macOS 14 and later</sub>
+
+<br><br>
+
 <a href="https://gettiroir.vercel.app">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruben4reall/tiroir/main/docs/brand/readme-header-dark.png">
@@ -28,37 +45,6 @@ A free menu bar organizer for macOS 26 and 27. Tiroir sorts the icons crowding y
 <a href="https://github.com/ruben4reall/tiroir/releases/latest/download/Tiroir.dmg"><img src="https://img.shields.io/badge/Download_for_Mac-8F5600?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Mac"></a>&nbsp;<a href="https://gettiroir.vercel.app"><img src="https://img.shields.io/badge/Website-1f1f1f?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>&nbsp;<a href="https://github.com/ruben4reall/tiroir"><img src="https://img.shields.io/badge/Star_on_GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="Star on GitHub"></a>
 
 <sub>Swift 6 · SwiftUI · AppKit · MIT · signed and notarized · <code>brew install --cask ruben4reall/tap/tiroir</code> · macOS 26 and later</sub>
-
-<br><br>
-
-<a href="https://getsouffleur.vercel.app">
-  <img src="https://raw.githubusercontent.com/ruben4reall/souffleur/main/docs/images/readme-header.png" alt="Souffleur" width="100%">
-</a>
-
-### [Souffleur](https://github.com/ruben4reall/souffleur): your lines, right under the camera
-
-A free teleprompter that grows out of the MacBook notch, lit from below in violet. The script rolls at your pace while you speak and stops the moment you do, and it stays out of your screen recordings and screen sharing. Choose Voice Follow and it follows your words one by one, recognised on the Mac and never sent anywhere. Floating and mirrored full screen modes; global shortcuts, presentation clickers and foot pedals, a phone remote over your network; scripts from Word, PDF or PowerPoint notes; one click to fit a script in a minute, and a coach after every take.
-
-<a href="https://github.com/ruben4reall/souffleur/releases/latest/download/Souffleur.dmg"><img src="https://img.shields.io/badge/Download_for_Mac-8F6BFF?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Mac"></a>&nbsp;<a href="https://getsouffleur.vercel.app"><img src="https://img.shields.io/badge/Website-1f1f1f?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>&nbsp;<a href="https://github.com/ruben4reall/souffleur"><img src="https://img.shields.io/badge/Star_on_GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="Star on GitHub"></a>
-
-<sub>Swift 6 · SwiftUI · Core Animation · on-device speech · MIT · signed and notarized · macOS 14 and later</sub>
-
-<br><br>
-
-<a href="https://getislet.vercel.app">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruben4reall/islet/main/docs/images/readme-header-dark.png">
-    <img src="https://raw.githubusercontent.com/ruben4reall/islet/main/docs/images/readme-header.png" alt="Islet" width="100%">
-  </picture>
-</a>
-
-### [Islet](https://github.com/ruben4reall/islet): the notch, made useful
-
-A native Dynamic Island for the MacBook notch. The song playing with its cover, your AirPods recognised by model, volume and brightness, a shelf for files with AirDrop, clipboard history, agenda and timers, and the AI agents you run: Claude Code, Codex, Gemini CLI, Cursor and GitHub Copilot in VS Code show in the notch, and a permission request from Claude Code or Codex opens it with Allow and Deny. Programmable from any script, never over the menu bar, about 15 MB of memory at rest, no telemetry.
-
-<a href="https://github.com/ruben4reall/islet/releases/latest/download/Islet.dmg"><img src="https://img.shields.io/badge/Download_for_Mac-E2472D?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Mac"></a>&nbsp;<a href="https://getislet.vercel.app"><img src="https://img.shields.io/badge/Website-1f1f1f?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>&nbsp;<a href="https://github.com/ruben4reall/islet"><img src="https://img.shields.io/badge/Star_on_GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="Star on GitHub"></a>
-
-<sub>Swift 6 · SwiftUI · Core Animation · MIT · signed and notarized · macOS 14 and later</sub>
 
 <br><br>
 
@@ -106,9 +92,8 @@ A native macOS app for people with more than one Claude account. Each account ge
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[Col](https://github.com/ruben4reall/col)** | A Dynamic Island for the MacBook notch: music and synced lyrics, a teleprompter, AirPods, files, timers and your AI agents, with Allow and Deny | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-1f1f1f?style=flat-square&logo=swift&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-1f1f1f?style=flat-square&logo=apple&logoColor=white) |
 | **[Tiroir](https://github.com/ruben4reall/tiroir)** | The menu bar in drawers: icons sorted by purpose in one click, each drawer one icon, clear of the notch | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-1f1f1f?style=flat-square&logo=swift&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-1f1f1f?style=flat-square&logo=apple&logoColor=white) |
-| **[Souffleur](https://github.com/ruben4reall/souffleur)** | A teleprompter that grows out of the MacBook notch, stops when you stop talking and stays out of your recordings | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-1f1f1f?style=flat-square&logo=swift&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-1f1f1f?style=flat-square&logo=apple&logoColor=white) |
-| **[Islet](https://github.com/ruben4reall/islet)** | A Dynamic Island for the MacBook notch: music, AirPods, files, timers and your AI agents, with Allow and Deny | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-1f1f1f?style=flat-square&logo=swift&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-1f1f1f?style=flat-square&logo=apple&logoColor=white) |
 | **[Pli](https://github.com/ruben4reall/pli)** | The iPhone Duo fold on a MacBook, driven by the real lid angle, rendered in Metal | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![Metal](https://img.shields.io/badge/Metal-1f1f1f?style=flat-square&logo=apple&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-1f1f1f?style=flat-square&logo=apple&logoColor=white) |
 | **[Brainmerge](https://github.com/ruben4reall/brainmerge)** | Several Claude accounts side by side on a Mac, one shared memory of your projects | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-1f1f1f?style=flat-square&logo=apple&logoColor=white) |
 
