@@ -14,6 +14,23 @@
 
 ## Latest releases
 
+<a href="https://getpostern.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruben4reall/postern/main/docs/assets/readme-header-dark.png">
+    <img src="https://raw.githubusercontent.com/ruben4reall/postern/main/docs/assets/readme-header.png" alt="Postern" width="100%">
+  </picture>
+</a>
+
+### [Postern](https://github.com/ruben4reall/postern): your mailbox, behind a door you hold
+
+A native Mac app that lets Claude Code, Claude Desktop, Codex and any MCP client work with your Proton Mail through Proton Mail Bridge. Twenty-two tools in five tiers, each behind its own switch and Touch ID. Every email waits on a panel that shows all of it, every deletion lists each message, and nothing leaves without your fingerprint. Text hidden in a stranger's email is stripped before an app reads it, the Bridge password lives only in the Keychain, and messages are decoded in a sandbox with no network. No telemetry.
+
+<a href="https://github.com/ruben4reall/postern/releases/latest/download/Postern.dmg"><img src="https://img.shields.io/badge/Download_for_Mac-13110F?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Mac"></a>&nbsp;<a href="https://getpostern.vercel.app"><img src="https://img.shields.io/badge/Website-1f1f1f?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>&nbsp;<a href="https://github.com/ruben4reall/postern"><img src="https://img.shields.io/badge/Star_on_GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="Star on GitHub"></a>
+
+<sub>Swift 6 · SwiftUI · SwiftNIO · MCP · MIT · signed and notarized · macOS 26 and later · not affiliated with Proton AG</sub>
+
+<br><br>
+
 <a href="https://getcol.vercel.app">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruben4reall/col/main/docs/images/readme-header-dark.png">
@@ -92,6 +109,7 @@ A native macOS app for people with more than one Claude account. Each account ge
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[Postern](https://github.com/ruben4reall/postern)** | Proton Mail for MCP apps: one switch per tool, every send and deletion approved with Touch ID | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-1f1f1f?style=flat-square&logo=swift&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-1f1f1f?style=flat-square&logo=apple&logoColor=white) |
 | **[Col](https://github.com/ruben4reall/col)** | A Dynamic Island for the MacBook notch: music and synced lyrics, a teleprompter, AirPods, files, timers and your AI agents, with Allow and Deny | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-1f1f1f?style=flat-square&logo=swift&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-1f1f1f?style=flat-square&logo=apple&logoColor=white) |
 | **[Tiroir](https://github.com/ruben4reall/tiroir)** | The menu bar in drawers: icons sorted by purpose in one click, each drawer one icon, clear of the notch | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-1f1f1f?style=flat-square&logo=swift&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-1f1f1f?style=flat-square&logo=apple&logoColor=white) |
 | **[Pli](https://github.com/ruben4reall/pli)** | The iPhone Duo fold on a MacBook, driven by the real lid angle, rendered in Metal | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![Metal](https://img.shields.io/badge/Metal-1f1f1f?style=flat-square&logo=apple&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-1f1f1f?style=flat-square&logo=apple&logoColor=white) |
