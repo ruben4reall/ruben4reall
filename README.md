@@ -14,6 +14,23 @@
 
 ## Latest releases
 
+<a href="https://getcol.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruben4reall/col/main/docs/images/readme-header-dark.png">
+    <img src="https://raw.githubusercontent.com/ruben4reall/col/main/docs/images/readme-header.png" alt="Col" width="100%">
+  </picture>
+</a>
+
+### [Col 3](https://github.com/ruben4reall/col): the notch, made useful, on every Mac, Windows and Linux
+
+A native Dynamic Island for the MacBook notch, now a pill in the menu bar of every other Mac, and a preview for Windows and Linux. The song playing with its lyrics, even on the Lock Screen and the desktop, word by word; your AirPods, the weather, your next meeting, a microphone mute, Pomodoro, a shelf for files, clipboard, agenda and timers, pages you compose from widgets. A teleprompter that rolls at the pace of your voice. Your AI agents in the notch: Allow and Deny, Claude Code's questions answered and its plans approved from the island. Col Connect lets your phone, Home Assistant or a build machine push to the island. Made for macOS 27, in eleven languages, about 27 MB of memory at rest, no telemetry.
+
+<a href="https://github.com/ruben4reall/col/releases/latest/download/Col.dmg"><img src="https://img.shields.io/badge/Download_for_Mac-0A84FF?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Mac"></a>&nbsp;<a href="https://github.com/ruben4reall/col/releases/latest/download/Col-windows-setup.exe"><img src="https://img.shields.io/badge/Windows-1f1f1f?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows"></a>&nbsp;<a href="https://github.com/ruben4reall/col#col-on-windows-and-linux"><img src="https://img.shields.io/badge/Linux-1f1f1f?style=for-the-badge&logo=linux&logoColor=white" alt="Col for Linux"></a>&nbsp;<a href="https://getcol.vercel.app"><img src="https://img.shields.io/badge/Website-1f1f1f?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>&nbsp;<a href="https://github.com/ruben4reall/col"><img src="https://img.shields.io/badge/Star_on_GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="Star on GitHub"></a>
+
+<sub>Swift 6 · SwiftUI · Core Animation · C# and WPF · Vala and GTK 4 · MIT · signed and notarized on the Mac · <code>brew install --cask ruben4reall/tap/col</code> · macOS 14 to 27</sub>
+
+<br><br>
+
 <a href="https://getpostern.vercel.app">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruben4reall/postern/main/docs/assets/readme-header-dark.png">
@@ -28,23 +45,6 @@ Let Claude, ChatGPT through Codex, Cursor, GitHub Copilot, Gemini and every MCP 
 <a href="https://github.com/ruben4reall/postern/releases/latest/download/Postern.dmg"><img src="https://img.shields.io/badge/Download_for_Mac-13110F?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Mac"></a>&nbsp;<a href="https://getpostern.vercel.app"><img src="https://img.shields.io/badge/Website-1f1f1f?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>&nbsp;<a href="https://github.com/ruben4reall/postern"><img src="https://img.shields.io/badge/Star_on_GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="Star on GitHub"></a>
 
 <sub>Swift 6 · SwiftUI · SwiftNIO · MCP · MIT · signed and notarized · macOS 26 and later · not affiliated with Proton AG</sub>
-
-<br><br>
-
-<a href="https://getcol.vercel.app">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruben4reall/col/main/docs/images/readme-header-dark.png">
-    <img src="https://raw.githubusercontent.com/ruben4reall/col/main/docs/images/readme-header.png" alt="Col" width="100%">
-  </picture>
-</a>
-
-### [Col](https://github.com/ruben4reall/col): the notch, made useful
-
-A native Dynamic Island for the MacBook notch, called Islet until 2.0. The song playing with its synced lyrics, your AirPods recognised by model, volume and brightness, a shelf for files with AirDrop, clipboard, agenda and timers, pages you compose from widgets. A teleprompter that grows out of the notch and rolls at the pace of your voice, out of your recordings. And your AI: Claude Code, Codex, Gemini CLI, Cursor and GitHub Copilot show in the notch with Allow and Deny, and you can ask your own models, on your Mac or your network. Programmable from any script, about 15 MB of memory at rest, no telemetry.
-
-<a href="https://github.com/ruben4reall/col/releases/latest/download/Col.dmg"><img src="https://img.shields.io/badge/Download_for_Mac-0A84FF?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Mac"></a>&nbsp;<a href="https://getcol.vercel.app"><img src="https://img.shields.io/badge/Website-1f1f1f?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>&nbsp;<a href="https://github.com/ruben4reall/col"><img src="https://img.shields.io/badge/Star_on_GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="Star on GitHub"></a>
-
-<sub>Swift 6 · SwiftUI · Core Animation · on-device speech · MIT · signed and notarized · <code>brew install --cask ruben4reall/tap/col</code> · macOS 14 and later</sub>
 
 <br><br>
 
